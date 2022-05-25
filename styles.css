@@ -1,0 +1,49 @@
+/* Place your CSS styles in this file */
+* { margin: 0;}
+h1 {
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: normal;
+}/* Add a black background color to the top navigation */
+.topnav {
+  background-color: rgba(0, 162, 255, 0.534);
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: rgb(110, 153, 245);
+  color: rgb(255, 255, 255);
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: rgb(110, 153, 245);
+  color: white;
+}
+body {
+  background-color: rgba(110, 153, 245, 0.486);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+/*h2 {background-color:  rgba(252, 238, 255, 0.801)}*/
+.land {
+                padding: 60px;
+              }
+.icon {
+  width: 28px;
+  height: auto;
+}
