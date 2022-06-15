@@ -1,10 +1,20 @@
 /* Place your CSS styles in this file */
 * { margin: 0;}
-h1 {
-    text-align: center;
-    font-family: 'Barlow Condensed', sans-serif;
-    font-weight: normal;
-}/* Add a black background color to the top navigation */
+
+
+ h1 {font-family: 'Fredoka One', cursive;
+   font-size: 57px;            
+ color: black;
+  }
+  }
+  h2 {
+  font-family: 'Quicksand', sans-serif;
+ font-size: 30px;
+ }
+  .images{ 
+position: relative;
+top: 100px;
+/* Add a black background color to the top navigation */
 .topnav {
   background-color: rgba(0, 162, 255, 0.534);
   overflow: hidden;
@@ -33,7 +43,7 @@ h1 {
   color: white;
 }
 body {
-  background-color: rgba(110, 153, 245, 0.486);
+  background-color: rgba(110, 153, 245, 0.685);
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
