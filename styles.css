@@ -13,7 +13,7 @@
  }
   .images{ 
 position: relative;
-top: 100px;
+   top: 100px;}
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: rgba(0, 162, 255, 0.534);
